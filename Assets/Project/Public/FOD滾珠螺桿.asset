@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8e6292b2c06870d4495f009f912b9600, type: 3}
-  m_Name: FOD
+  m_Name: "FOD\u6EFE\u73E0\u87BA\u687F"
   m_EditorClassIdentifier: 
   settings:
   - {fileID: 114201360246085858}
@@ -35,10 +35,10 @@ MonoBehaviour:
     value: 1
   aperture:
     overrideState: 1
-    value: 5.4
+    value: 2.8
   focalLength:
-    overrideState: 1
-    value: 95
+    overrideState: 0
+    value: 50
   kernelSize:
-    overrideState: 1
-    value: 3
+    overrideState: 0
+    value: 1
