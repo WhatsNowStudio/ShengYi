@@ -145,7 +145,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 0.02
+          value: 0.013
         - useVariable: 1
           name: "Float/\u521D\u59CB"
           tooltip: 
