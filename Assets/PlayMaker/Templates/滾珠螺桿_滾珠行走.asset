@@ -59,7 +59,7 @@ MonoBehaviour:
         - 
         - 
         actionEnabled: 01010101010101
-        actionIsOpen: 00000000000000
+        actionIsOpen: 00000000010000
         actionStartIndex: 00000000020000000400000005000000080000000d00000010000000
         actionHashCodes: d97b7202d97b72025c00450571c75a030cdb040532d59402c34b4105
         unityObjectParams: []
@@ -156,7 +156,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 0.013
+          value: 0.015
         - useVariable: 1
           name: "Float/\u521D\u59CB"
           tooltip: 

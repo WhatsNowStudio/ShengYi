@@ -11,6 +11,9 @@ ModelImporter:
     100010: "\u78E8\u640D\u7DDA"
     100012: "\u87BA\u687F"
     100014: Box001
+    100016: Circle002
+    100018: Rectangle001
+    100020: "\u5C0E\u7BA1"
     400000: //RootNode
     400002: Circle001
     400004: Helix001
@@ -19,6 +22,9 @@ ModelImporter:
     400010: "\u78E8\u640D\u7DDA"
     400012: "\u87BA\u687F"
     400014: Box001
+    400016: Circle002
+    400018: Rectangle001
+    400020: "\u5C0E\u7BA1"
     2100000: 'Material #37'
     2100002: No Name
     2300000: Plane001
@@ -26,16 +32,19 @@ ModelImporter:
     2300004: "\u78E8\u640D\u7DDA"
     2300006: "\u87BA\u687F"
     2300008: Box001
+    2300010: "\u5C0E\u7BA1"
     3300000: Plane001
     3300002: "\u6ED1\u584A"
     3300004: "\u78E8\u640D\u7DDA"
     3300006: "\u87BA\u687F"
     3300008: Box001
+    3300010: "\u5C0E\u7BA1"
     4300000: Plane001
     4300002: "\u87BA\u687F"
     4300004: "\u78E8\u640D\u7DDA"
     4300006: "\u6ED1\u584A"
     4300008: Box001
+    4300010: "\u5C0E\u7BA1"
   externalObjects: {}
   materials:
     importMaterials: 1
