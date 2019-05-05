@@ -232,7 +232,7 @@ PrefabInstance:
     - target: {fileID: 2614440573109139876, guid: cff01126518e7364e87699917493ee85,
         type: 3}
       propertyPath: m_Text
-      value: "\u76F4\u5F91:15mm"
+      value: "\u76F4\u5F91:0.8mm"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cff01126518e7364e87699917493ee85, type: 3}
@@ -362,7 +362,7 @@ PrefabInstance:
     - target: {fileID: 2614440573109139876, guid: cff01126518e7364e87699917493ee85,
         type: 3}
       propertyPath: m_Text
-      value: "\u76F4\u5F91:15mm"
+      value: "\u76F4\u5F91:0.6mm"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cff01126518e7364e87699917493ee85, type: 3}
@@ -649,7 +649,7 @@ PrefabInstance:
     - target: {fileID: 2614440573109139876, guid: cff01126518e7364e87699917493ee85,
         type: 3}
       propertyPath: m_Text
-      value: "\u76F4\u5F91:15mm"
+      value: "\u76F4\u5F91:1.5mm"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cff01126518e7364e87699917493ee85, type: 3}
@@ -845,7 +845,7 @@ PrefabInstance:
     - target: {fileID: 2614440573109139876, guid: cff01126518e7364e87699917493ee85,
         type: 3}
       propertyPath: m_Text
-      value: "\u76F4\u5F91:15mm"
+      value: "\u76F4\u5F91:1.0mm"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cff01126518e7364e87699917493ee85, type: 3}
@@ -1034,7 +1034,7 @@ PrefabInstance:
     - target: {fileID: 2614440573109139876, guid: cff01126518e7364e87699917493ee85,
         type: 3}
       propertyPath: m_Text
-      value: "\u76F4\u5F91:15mm"
+      value: "\u76F4\u5F91:0.8mm"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cff01126518e7364e87699917493ee85, type: 3}
