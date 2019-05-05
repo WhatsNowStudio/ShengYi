@@ -7,14 +7,15 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: "\u78E8\u640D\u7DDA_A"
-  m_Shader: {fileID: 4800000, guid: dfb2ef60de11e934f9e7571d2eb7bf08, type: 3}
+  m_Name: "\u78E8\u640D\u7DDA_A_\u767C\u5149"
+  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: _ALPHABLEND_ON _EMISSION _GLOSSYREFLECTIONS_OFF _SPECULARHIGHLIGHTS_OFF
   m_LightmapFlags: 2
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
-  stringTagMap: {}
+  m_CustomRenderQueue: 3000
+  stringTagMap:
+    RenderType: Transparent
   disabledShaderPasses: []
   m_SavedProperties:
     serializedVersion: 3
@@ -76,6 +77,6 @@ Material:
     m_Colors:
     - _Color: {r: 1, g: 0, b: 0, a: 1}
     - _CrossColor: {r: 1, g: 1, b: 1, a: 1}
-    - _EmissionColor: {r: 27.857622, g: 0, b: 0, a: 1}
+    - _EmissionColor: {r: 0.8396226, g: 0, b: 0, a: 1}
     - _PlaneNormal: {r: 0, g: 0, b: 1, a: 0}
     - _PlanePosition: {r: 0, g: 0, b: 0, a: 1}
