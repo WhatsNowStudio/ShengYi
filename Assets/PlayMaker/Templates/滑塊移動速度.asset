@@ -36,17 +36,15 @@ MonoBehaviour:
         actionNames:
         - HutongGames.PlayMaker.Actions.GetGameObjectSpeed
         - HutongGames.PlayMaker.Actions.GetVector3XYZ
-        - HutongGames.PlayMaker.Actions.FloatMultiply
         - HutongGames.PlayMaker.Actions.SetFloatValue
         customNames:
         - 
         - 
         - 
-        - 
-        actionEnabled: 01010101
-        actionIsOpen: 01010101
-        actionStartIndex: 0000000004000000090000000c000000
-        actionHashCodes: f96398016f1d0b049845b3059845b305
+        actionEnabled: 010101
+        actionIsOpen: 010101
+        actionStartIndex: 000000000400000009000000
+        actionHashCodes: f96398016f1d0b049845b305
         unityObjectParams: []
         fsmGameObjectParams: []
         fsmOwnerDefaultParams:
@@ -91,23 +89,11 @@ MonoBehaviour:
         - useVariable: 1
           name: Float/Speed
           tooltip: 
-          showInInspector: 1
-          networkSync: 0
-          value: 0
-        - useVariable: 1
-          name: Float/Speed
-          tooltip: 
-          showInInspector: 1
-          networkSync: 0
-          value: 0
-        - useVariable: 0
-          name: 
-          tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 1
+          value: 0
         - useVariable: 1
-          name: GFloat/BallSpeed
+          name: GFloat/Speed
           tooltip: 
           showInInspector: 0
           networkSync: 0
@@ -115,7 +101,7 @@ MonoBehaviour:
         - useVariable: 1
           name: Float/Speed
           tooltip: 
-          showInInspector: 1
+          showInInspector: 0
           networkSync: 0
           value: 0
         fsmIntParams: []
@@ -125,25 +111,25 @@ MonoBehaviour:
         - useVariable: 1
           name: V3/Public
           tooltip: 
-          showInInspector: 1
+          showInInspector: 0
           networkSync: 0
           value: {x: 0, y: 0, z: 0}
         - useVariable: 1
           name: V3/Public
           tooltip: 
-          showInInspector: 1
+          showInInspector: 0
           networkSync: 0
           value: {x: 0, y: 0, z: 0}
         fsmColorParams: []
         fsmRectParams: []
         fsmQuaternionParams: []
         stringParams: []
-        byteData: 01000000010101
+        byteData: 010000000101
         arrayParamSizes: 
         arrayParamTypes: []
         customTypeSizes: 
         customTypeNames: []
-        paramDataType: 140000000f0000001c000000070000001c0000000f0000000f0000000f000000010000000f0000000f000000010000000f0000000f00000001000000
+        paramDataType: 140000000f0000001c000000070000001c0000000f0000000f0000000f000000010000000f0000000f00000001000000
         paramName:
         - gameObject
         - speed
@@ -155,13 +141,10 @@ MonoBehaviour:
         - storeZ
         - everyFrame
         - floatVariable
-        - multiplyBy
-        - everyFrame
-        - floatVariable
         - floatValue
         - everyFrame
-        paramDataPos: 000000000000000000000000000000000100000001000000020000000300000004000000040000000500000005000000060000000700000006000000
-        paramByteDataSize: 000000000000000000000000040000000000000000000000000000000000000001000000000000000000000001000000000000000000000001000000
+        paramDataPos: 000000000000000000000000000000000100000001000000020000000300000004000000040000000500000005000000
+        paramByteDataSize: 000000000000000000000000040000000000000000000000000000000000000001000000000000000000000001000000
     events: []
     globalTransitions: []
     variables:
@@ -169,7 +152,7 @@ MonoBehaviour:
       - useVariable: 1
         name: Float/Speed
         tooltip: 
-        showInInspector: 1
+        showInInspector: 0
         networkSync: 0
         value: 0
       intVariables: []
@@ -180,7 +163,7 @@ MonoBehaviour:
       - useVariable: 1
         name: V3/Public
         tooltip: 
-        showInInspector: 1
+        showInInspector: 0
         networkSync: 0
         value: {x: 0, y: 0, z: 0}
       colorVariables: []

@@ -15,7 +15,7 @@ MonoBehaviour:
   variables:
     floatVariables:
     - useVariable: 1
-      name: GFloat/BallSpeed
+      name: GFloat/Speed
       tooltip: 
       showInInspector: 0
       networkSync: 0
