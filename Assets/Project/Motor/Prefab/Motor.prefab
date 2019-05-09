@@ -596,7 +596,7 @@ MonoBehaviour:
         tooltip: 
         showInInspector: 1
         networkSync: 0
-        value: 500
+        value: 2000
       intVariables: []
       boolVariables: []
       stringVariables: []
@@ -1066,7 +1066,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: f3805963edeee2d4483e3dc730adf813, type: 2}
+  - {fileID: 2100000, guid: 3031b3a52b0c8dc48bef80110480308d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -7956,6 +7956,7 @@ MeshRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: 523518c25a8d413428071793b941e3b4, type: 2}
+  - {fileID: 2100000, guid: 2d1f640ca55b89b4b96f29a72255d2a6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -14086,11 +14087,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Dummy
-      objectReference: {fileID: 0}
-    - target: {fileID: 2223371383213263763, guid: 492ce50f0f32dae4a8a7b399bbe175c2,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4567025176225954166, guid: 492ce50f0f32dae4a8a7b399bbe175c2,
         type: 3}
