@@ -59,7 +59,7 @@ MonoBehaviour:
         - 
         - 
         actionEnabled: 01010101010101
-        actionIsOpen: 00000000000000
+        actionIsOpen: 00000000010100
         actionStartIndex: 00000000020000000400000005000000080000000d00000010000000
         actionHashCodes: d97b7202d97b72025c00450571c75a030cdb040532d59402c34b4105
         unityObjectParams: []
@@ -151,12 +151,12 @@ MonoBehaviour:
           showInInspector: 0
           networkSync: 0
           value: 0
-        - useVariable: 0
-          name: 
+        - useVariable: 1
+          name: "Float/\u9593\u8DDD"
           tooltip: 
-          showInInspector: 0
+          showInInspector: 1
           networkSync: 0
-          value: 0.015
+          value: 0
         - useVariable: 1
           name: "Float/\u521D\u59CB"
           tooltip: 
@@ -344,6 +344,12 @@ MonoBehaviour:
         showInInspector: 0
         networkSync: 0
         value: 0
+      - useVariable: 1
+        name: "Float/\u9593\u8DDD"
+        tooltip: 
+        showInInspector: 1
+        networkSync: 0
+        value: 0
       intVariables: []
       boolVariables: []
       stringVariables:
@@ -378,7 +384,7 @@ MonoBehaviour:
       enumVariables: []
       categories:
       - 
-      variableCategoryIDs: 00000000000000000000000000000000
+      variableCategoryIDs: 0000000000000000000000000000000000000000
     description: 
     docUrl: 
     showStateLabel: 0
