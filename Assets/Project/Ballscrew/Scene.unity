@@ -287,7 +287,7 @@ Animator:
   m_GameObject: {fileID: 1058623457}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: f1ec59f7cb862db418a988f4d994bb76, type: 2}
+  m_Controller: {fileID: 9100000, guid: 65e50f265163557409adcda4b696226c, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -946,6 +946,20 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: cc7d4c583f8211d41a9e2c4013f17648, type: 2}
+    - target: {fileID: 622047212, guid: 9435a7f6b35e5b24c98edbd05a380372, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.0976
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438492184928890588, guid: 9435a7f6b35e5b24c98edbd05a380372,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3654121397541007713, guid: 9435a7f6b35e5b24c98edbd05a380372,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9435a7f6b35e5b24c98edbd05a380372, type: 3}
 --- !u!1001 &8377481930402065345
@@ -1039,6 +1053,21 @@ PrefabInstance:
         type: 3}
       propertyPath: field of view
       value: 60
+      objectReference: {fileID: 0}
+    - target: {fileID: 8377481930471375249, guid: 2f26267ce94f3fa48b8092aca5c229ed,
+        type: 3}
+      propertyPath: m_BackGroundColor.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8377481930471375249, guid: 2f26267ce94f3fa48b8092aca5c229ed,
+        type: 3}
+      propertyPath: m_BackGroundColor.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8377481930471375249, guid: 2f26267ce94f3fa48b8092aca5c229ed,
+        type: 3}
+      propertyPath: m_BackGroundColor.b
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2f26267ce94f3fa48b8092aca5c229ed, type: 3}
