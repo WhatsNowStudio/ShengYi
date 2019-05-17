@@ -8073,7 +8073,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "World Patent\n\u5168\u74034\u500B\u570B\u5BB6\u7533\u8ACB\u5C08\u5229\u4E2D!"
+  m_Text: "World Patent\n\u5168\u74034\u500B\u570B\u5BB6\u5DF2\u53D6\u5F97\u767C\u660E\u5C08\u5229"
 --- !u!222 &1994884544
 CanvasRenderer:
   m_ObjectHideFlags: 0
