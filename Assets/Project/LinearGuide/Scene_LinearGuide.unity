@@ -234,6 +234,11 @@ PrefabInstance:
       propertyPath: m_Text
       value: "\u78E8\u640D\u7DDAA"
       objectReference: {fileID: 0}
+    - target: {fileID: 2614440573057230281, guid: cff01126518e7364e87699917493ee85,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 157
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cff01126518e7364e87699917493ee85, type: 3}
 --- !u!224 &71178858 stripped
@@ -293,7 +298,7 @@ Animator:
   m_GameObject: {fileID: 1058623457}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 65e50f265163557409adcda4b696226c, type: 2}
+  m_Controller: {fileID: 9100000, guid: e2c465f3a2607244894a9f1f8e4ad378, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -590,6 +595,71 @@ PrefabInstance:
       propertyPath: m_Text
       value: "\u78E8\u640D\u7DDAB"
       objectReference: {fileID: 0}
+    - target: {fileID: 2614440573057230281, guid: cff01126518e7364e87699917493ee85,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 185
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614440572332197185, guid: cff01126518e7364e87699917493ee85,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614440572332197185, guid: cff01126518e7364e87699917493ee85,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0.2509804
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614440572332197185, guid: cff01126518e7364e87699917493ee85,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614440572332197185, guid: cff01126518e7364e87699917493ee85,
+        type: 3}
+      propertyPath: m_Color.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614440573057230282, guid: cff01126518e7364e87699917493ee85,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614440573057230282, guid: cff01126518e7364e87699917493ee85,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0.2509804
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614440573057230282, guid: cff01126518e7364e87699917493ee85,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614440573057230282, guid: cff01126518e7364e87699917493ee85,
+        type: 3}
+      propertyPath: m_Color.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614440573009004622, guid: cff01126518e7364e87699917493ee85,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614440573009004622, guid: cff01126518e7364e87699917493ee85,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0.2509804
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614440573009004622, guid: cff01126518e7364e87699917493ee85,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2614440573009004622, guid: cff01126518e7364e87699917493ee85,
+        type: 3}
+      propertyPath: m_Color.a
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cff01126518e7364e87699917493ee85, type: 3}
 --- !u!224 &1285221394 stripped
@@ -631,7 +701,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -45.84, y: -179}
+  m_AnchoredPosition: {x: 64, y: 194}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1481852591
@@ -726,7 +796,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -148.2, y: 61.62}
+  m_AnchoredPosition: {x: -431, y: 212}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &1210558308971492392
