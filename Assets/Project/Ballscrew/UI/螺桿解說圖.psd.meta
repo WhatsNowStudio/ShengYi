@@ -6,6 +6,8 @@ TextureImporter:
     21300002: Ball
     21300004: Arrow
     21300006: "\u87BA\u5E3D"
+    21300008: "\u6ED1\u584A\u5916\u5074"
+    21300010: "\u87BA\u687F\u89E3\u8AAA\u5716_0"
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -102,10 +104,10 @@ TextureImporter:
       name: "\u87BA\u687F"
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1361
-        width: 3011
-        height: 799
+        x: 446
+        y: 710
+        width: 3256
+        height: 821
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,6 +176,26 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8017f0d2f5788454b8312ff2fa991484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u87BA\u687F\u89E3\u8AAA\u5716_0"
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1560
+        width: 2475
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1220, y: 0, z: 1220, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9877834666630f74e9ab204c026cfa2b
       vertices: []
       indices: 
       edges: []

@@ -274,6 +274,11 @@ PrefabInstance:
       propertyPath: m_Color.a
       value: 0.6901961
       objectReference: {fileID: 0}
+    - target: {fileID: 2614440572432370066, guid: cff01126518e7364e87699917493ee85,
+        type: 3}
+      propertyPath: m_Alpha
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cff01126518e7364e87699917493ee85, type: 3}
 --- !u!224 &71178858 stripped
@@ -298,7 +303,7 @@ Animator:
   m_GameObject: {fileID: 71178859}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: f48976df6a66c374e9a7e2c0a3003f6d, type: 2}
+  m_Controller: {fileID: 9100000, guid: 5007b9c6ab3523049ad37f283363fb2c, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -441,12 +446,12 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 774331561}
-  m_Father: {fileID: 1285221394}
+  m_Father: {fileID: 2112292809}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 50, y: -41}
+  m_AnchoredPosition: {x: 50, y: -50}
   m_SizeDelta: {x: 25, y: 25}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &423409824
@@ -1728,6 +1733,11 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 9
       objectReference: {fileID: 0}
+    - target: {fileID: 2614440572432370066, guid: cff01126518e7364e87699917493ee85,
+        type: 3}
+      propertyPath: m_Alpha
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cff01126518e7364e87699917493ee85, type: 3}
 --- !u!224 &1285221394 stripped
@@ -1752,7 +1762,7 @@ Animator:
   m_GameObject: {fileID: 1285221395}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: f48976df6a66c374e9a7e2c0a3003f6d, type: 2}
+  m_Controller: {fileID: 9100000, guid: 5007b9c6ab3523049ad37f283363fb2c, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -2492,6 +2502,12 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2016822136}
   m_CullTransparentMesh: 0
+--- !u!224 &2112292809 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 2614440572332197184, guid: cff01126518e7364e87699917493ee85,
+    type: 3}
+  m_PrefabInstance: {fileID: 1285221393}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &2967390284599235778
 PrefabInstance:
   m_ObjectHideFlags: 0
